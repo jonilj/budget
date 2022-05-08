@@ -1,0 +1,13 @@
+.navbar-nav > li{
+    padding-left:0.5em;
+    padding-right:1em;
+  }
+
+.navbar-brand {
+    padding-left: 1em;
+}
+
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+    color: #f10e34;
+    text-decoration: underline;
+}
